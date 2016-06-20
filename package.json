@@ -1,0 +1,22 @@
+{
+  "name": "crdt_tree",
+  "version": "0.0.1",
+  "description": "A CRDT String represented as a B-Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disordinary/crdt_tree.git"
+  },
+  "author": "Ryan McCarvill <ryan@disordinary.com> (http://www.disordinary.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/disordinary/crdt_tree/issues"
+  },
+  "homepage": "https://github.com/disordinary/crdt_tree#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
